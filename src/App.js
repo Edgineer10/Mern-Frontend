@@ -5,6 +5,7 @@ import Login from "./features/auth/Login";
 import DashLayout from "./components/DashLayout";
 import Welcome from "./features/auth/Welcome";
 import NotesList from "./features/notes/notesList";
+import Userslist from "./features/users/Userslist";
 
 function App() {
   return (
